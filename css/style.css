@@ -766,7 +766,7 @@ cursor: pointer;
     font-size: 26px;
     color: #53352A;
     cursor: pointer;
-    padding: 100px;
+    padding: 80px;
     z-index: 1000;
     transition: 0.3s ease;
 }
